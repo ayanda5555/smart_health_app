@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14247536269",
+    "project_id": "campus-health-app-8702c",
+    "storage_bucket": "campus-health-app-8702c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14247536269:android:3f0964091dbe312b6164c4",
+        "android_client_info": {
+          "package_name": "com.example.campus_health_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsb-_HgPh0c3jI-2D16rua8v5e2833_ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
